@@ -4,7 +4,11 @@
     box-sizing: border-box;
 }
 
-.body {}
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,500&display=swap');
+
+.body {
+    font-family: 'Poppins', sans-serif;
+}
 
 .top-bennar {
     border: 1px, #270315, solid;
@@ -39,6 +43,21 @@
 
 .bennar-img {
     width: 50%;
+}
+
+.left {
+    width: 312px;
+    height: 312px;
+    background-color: black;
+    border-radius: 30px;
+    padding: 30px;
+}
+
+.left-b {
+    text-decoration: none;
+    width: 252px;
+    height: 64px;
+    background-color: white;
 }
 
 .footer {
