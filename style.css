@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.body {}
+
+.top-bennar {
+    border: 1px, #270315, solid;
+    border-radius: 20px;
+    text-align: center;
+    height: 500px;
+    background-color: #270315;
+    padding: 15px 25px 15px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.bennar-tittle {
+    color: white;
+    width: 50%;
+    text-align: left;
+}
+
+.pera {
+    padding-bottom: 30px;
+}
+
+.bennar-button {
+    padding: 8px 16px;
+    color: white;
+    background-color: blue;
+    text-decoration: none;
+    border: white solid 3px;
+    border-radius: 30px;
+}
+
+.bennar-img {
+    width: 50%;
+}
+
+.footer {
+    color: white;
+    background-color: black;
+
+}
+
+hr {
+    width: 80%;
+
+}
